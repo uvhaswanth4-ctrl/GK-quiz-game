@@ -43,6 +43,7 @@ if score == 4:
 else:
     print(Name,"Don't worry do better next time :)")
 print(Name,"your score:",score)
+print('you got'+ str((score/4)*100)+'%')
 
 
 
